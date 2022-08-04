@@ -19,7 +19,7 @@ pip install cookiecutter
 
 Either run the command using the link to the gitlab repository:
 
-    cookiecutter https://gitlab.com/kevintang513/basic-cookiecutter
+    cookiecutter https://github.com/kevintang513/basic-cookiecutter
 
 Or you can clone the repository locally and run the following command:
 
