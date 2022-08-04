@@ -17,7 +17,7 @@ pip install cookiecutter
 ### To start a new project:
 ------------
 
-Either run the command using the link to the gitlab repository:
+Either run the command using the link to the github repository:
 
     cookiecutter https://github.com/kevintang513/basic-cookiecutter
 
