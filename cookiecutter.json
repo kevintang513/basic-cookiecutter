@@ -1,0 +1,12 @@
+{
+    "project_name": "Default Project",
+    "author_name": "Kevin Tang"
+    "email": "kevin.tang513@gmail.com",
+    "directory_name": "{{ cookiecutter.project_name.lower().strip().replace(' ', '_') }}",
+    "description": "A short description of the project.",
+    "file_path": "{{ '.' | abspath }}/{{ cookiecutter.directory_name }}/",
+
+    "_extensions": [
+    "jinja2_ospath.extensions.OSPathExtension"
+  ]
+}
